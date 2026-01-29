@@ -39,4 +39,7 @@ HTTP message consists of 3 parts:
 
 * Start line: First line of the message, indicates what to do for a request
 * Header Fields: Zero or more header fields follow the start line, each field consists of a __name/value pair seperated by a colon (:)__
-* Body: Actual data of the message, optional. __Request__ bodies carry data to the web server, __response__ bodies carry data back to client ,
+* Body: Actual data of the message, optional. __Request__ bodies carry data to the web server, __response__ bodies carry data back to client
+
+## Wednesday Lecture - 
+
